@@ -13,8 +13,8 @@ Esta API foi desenvolvida em Laravel para gerar e apresentar as parcelas de um c
 
 1. Clone o repositório:
     ```bash
-    git clone <url-do-repositorio>
-    cd <nome-do-repositorio>
+    git clone <https://github.com/EduardoVasconcelos11/Carne-APIRestFull.git>
+    cd <Carne-APIRestFull>
     ```
 
 2. Instale as dependências do projeto:
